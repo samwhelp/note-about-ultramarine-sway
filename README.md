@@ -22,7 +22,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Ultramarine Sway](https://github.com/samwhelp/ultramarine-sway-adjustment/tree/main/prototype/main/sway-config/Main) |
+| [Ultramarine Sway Config](https://github.com/samwhelp/ultramarine-sway-adjustment/tree/main/prototype/main/sway-config/Main) |
 
 
 
