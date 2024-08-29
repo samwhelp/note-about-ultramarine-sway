@@ -34,7 +34,7 @@
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Sway 探索筆記](https://samwhelp.github.io/note-about-sway/) | [GitHub](https://github.com/samwhelp/note-about-sway) |
 | [Ultramarine 探索筆記](https://samwhelp.github.io/note-about-ultramarine/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine) |
-| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
+| [Fedora Sway 探索筆記](https://samwhelp.github.io/note-about-fedora-sway/) | [GitHub](https://github.com/samwhelp/note-about-fedora-sway) |
 
 
 
